@@ -1,2 +1,1 @@
-local Load
-game.Players.LocalPlayer:Kick(Load)
+game.Players.LocalPlayer:Kick()
